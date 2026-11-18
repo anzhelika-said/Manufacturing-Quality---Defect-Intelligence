@@ -38,7 +38,7 @@ Analyzing the FY 2025 production dataset (621,000 total units produced) uncovere
 
 ## 5. Repository Structure
 
-```
+```text
 ├── assets/
 │   ├── executive_overview.png       # High-res screenshot of Page 1
 │   └── root_cause_diagnostic.png    # High-res screenshot of Page 2
@@ -53,7 +53,7 @@ Analyzing the FY 2025 production dataset (621,000 total units produced) uncovere
 
 1. **Regenerate Dataset (Optional):**
 
-   ```
+   ```bash
    python3 generate_quality_data.py
    
    ```
