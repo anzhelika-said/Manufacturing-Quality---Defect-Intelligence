@@ -10,11 +10,11 @@ In precision manufacturing and industrial assembly, undetected spikes in compone
 
 This project simulates an end-to-end industrial analytics workflow using 100% synthetic operational data:
 
-* **Data Generation (`Python`, `pandas`, `numpy`):** Built a reproducible script (`generate_quality_data.py`) simulating 5,000 production batches across 12 months, covering 4 mechanical product lines, 3 shifts, and 3 external suppliers—with a realistic Q3 operational anomaly injected into the dataset.
+**Data Generation (`Python`, `pandas`, `numpy`):** Built a reproducible script (`generate_quality_data.py`) simulating 5,000 production batches across 12 months, covering 4 mechanical product lines, 3 shifts, and 3 external suppliers—with a realistic Q3 operational anomaly injected into the dataset.
 
-* **Data Modeling & Analytics (`Power BI`, `DAX`):** Structured a clean reporting model with custom DAX measures (`Defect Rate (%)`, `Scrap Cost ($)`, `MoM Defect Rate`) to ensure accurate dynamic filtering across time horizons and production segments.
+**Data Modeling & Analytics (`Power BI`, `DAX`):** Structured a clean reporting model with custom DAX measures (`Defect Rate (%)`, `Scrap Cost ($)`, `MoM Defect Rate`) to ensure accurate dynamic filtering across time horizons and production segments.
 
-* **Executive Visualization:** Designed a two-page Power BI report separating high-level executive KPIs from granular root-cause diagnostics.
+**Executive Visualization:** Designed a two-page Power BI report separating high-level executive KPIs from granular root-cause diagnostics.
 
 ## 3. Key Analytical Findings
 
