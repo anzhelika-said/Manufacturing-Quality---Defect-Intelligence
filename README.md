@@ -32,9 +32,13 @@ Analyzing the FY 2025 production dataset (621,000 total units produced) uncovere
 
 *Tracks total production volume, plant-wide defect rate, financial scrap impact, monthly defect trends, and Pareto failure categories.*
 
+![Executive Quality Overview](assets/executive_overview.png)
+
 ### Page 2: Supplier & Shift Root-Cause Diagnostic
 
 *Enables operations and supplier quality engineers to filter by product line and date range to isolate shift-level and vendor-specific bottlenecks.*
+
+![Supplier & Shift Root-Cause Diagnostic](assets/root_cause_diagnostic.png)
 
 ## 5. Repository Structure
 
